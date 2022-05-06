@@ -1,4 +1,4 @@
-# WHMCS Sample Third Party Payment Gateway Module #
+# WHMCS MeSomb Payment Gateway Module #
 
 ## Summary ##
 

@@ -6,9 +6,9 @@ This module is for the ingration of mobile payment (Mobile Money or Orange Money
 
 ## Installation ##
 
-* Register on Hachther MeSomb [Link](https://mesomb.hachther.com/signup)
+* Register on Hachther MeSomb [https://mesomb.hachther.com/signup](https://mesomb.hachther.com/signup)
 
-* Once registered, create an application for your product [Link](https://mesomb.hachther.com/en/applications/add/)
+* Once registered, create an application for your product [https://mesomb.hachther.com/en/applications/add/](https://mesomb.hachther.com/en/applications/add/)
 
 * Copy the content of the folder "modules/gateways" in the "modules/gateways" of your installation.
 

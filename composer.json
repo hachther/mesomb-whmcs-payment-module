@@ -1,0 +1,24 @@
+{
+    "name": "hachther/mesomb-payment-module",
+    "description": "Module for mobile payment integration (Orange Money, Mobile Money ...)",
+    "keywords": [
+        "whmcs",
+        "web host automation platform",
+        "mobile payment",
+        "Orange Money",
+        "Mobile Money"
+    ],
+    "homepage": "https://www.mesomb.com/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hachther SARL",
+            "email": "contact@hachther.com",
+            "homepage": "https://hachther.com/",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "contact@hachther.com"
+    }
+}

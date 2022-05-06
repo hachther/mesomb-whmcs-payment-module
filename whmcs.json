@@ -1,0 +1,28 @@
+{
+    "schema": "1.0",
+    "type": "whmcs-gateways",
+    "name": "mesomb-payment-gateway",
+    "license": "MIT",
+    "category": "gateway",
+    "description": {
+        "name": "MeSomb Payment Gateway",
+        "tagline": "Payment Gateway modules allow you to integrate mobile payment (Orange Money, Mobile Money, Airtel Money...) in WHMCS",
+        "features": [
+            "Mobile Payment"
+        ]
+    },
+    "logo": {
+        "filename": "logo.png"
+    },
+    "support": {
+        "homepage": "https:\/\/www.mesomb.com\/", 
+        "learn_more": "https:\/\/www.mesomb.com", 
+        "email": "contact@hachther.com"
+    },
+    "authors": [
+        {
+            "name": "Hachther SARL",
+            "homepage": "https:\/\/hachther.com\/"
+        }
+    ]
+}

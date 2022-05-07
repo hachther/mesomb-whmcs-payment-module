@@ -184,7 +184,8 @@ function mesomb_link($params)
     $moduleName = $params['paymentmethod'];
     $whmcsVersion = $params['whmcsVersion'];
 
-    $url = 'http://127.0.0.1:8000/en/external/payment/?app='.$application;
+    $url = 'https://mesomb.hachther.com/en/external/payment/?app='.$application;
+    // $url = 'http://127.0.0.1:8000/en/external/payment/?app='.$application;
 
     $postfields = array();
     $postfields['username'] = $username;
